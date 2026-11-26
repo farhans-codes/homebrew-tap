@@ -1,6 +1,6 @@
 cask "ai-limit-status" do
-  version "1.0.1"
-  sha256 "9fea191877d20b5e15afe8f7b55c1961636c55b7dd43a4647165736b32311947"
+  version "1.1.0"
+  sha256 "388026608bdcaf6006a6b59da84e600eb9ab63097a001e20d2b6e8a6f3bd3b65"
 
   url "https://github.com/farhans-codes/ai_limit_status/releases/download/v#{version}/AI-Limit-Status-macOS.dmg"
   name "AI Limit Status"
