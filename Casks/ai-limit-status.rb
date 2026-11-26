@@ -4,7 +4,7 @@ cask "ai-limit-status" do
 
   url "https://github.com/farhans-codes/ai_limit_status/releases/download/v#{version}/AI-Limit-Status-macOS.dmg"
   name "AI Limit Status"
-  desc "Menu bar monitor for Claude Code and Codex usage limits"
+  desc "Menu bar monitor for Claude Code, Codex, and Antigravity usage limits"
   homepage "https://github.com/farhans-codes/ai_limit_status"
 
   livecheck do
